@@ -6,7 +6,7 @@ This project is a simple Python program that interacts with the user by asking f
 
 ## Instructions for Build and Use
 
-[Software Demo][def]  <!-- https://www.kaltura.com//p/1157612/embedPlaykitJs/uiconf_id/56813562?iframeembed=true&entry_id=1_lz8hna9b -->
+[Software Demo][hello.py]  (https://www.kaltura.com//p/1157612/embedPlaykitJs/uiconf_id/56813562?iframeembed=true&entry_id=1_lz8hna9b)
 
 Steps to build and/or run the software:
 
