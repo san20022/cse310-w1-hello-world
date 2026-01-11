@@ -1,6 +1,4 @@
-
-You said:
-# Welcome Program - CSE 310
+# Hello World - CSE 310
 
 This project is a simple Python program that interacts with the user by asking for their name and welcoming them to the CSE 310 class. It demonstrates basic Python concepts like input, printing, string formatting, and simple loops.
 
